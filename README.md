@@ -9,6 +9,8 @@ Elementally is a puzzle game inspired by M.C. Escher and the three elements of n
 Goal<br>
 Logically arrange isometric blocks in each level by solving the illusion to reach the destination and collect an element.
 
+![image](Screenshot.png)
+
 ### Mechanics
 Reach the destination by altering the optical illusion using the following mechanics<br><br>
 Player Movement<br>
