@@ -12,7 +12,7 @@ Logically arrange isometric blocks in each level by solving the illusion to reac
 
 
 ### Mechanics
-Reach the destination by altering the optical illusion using the following mechanics<br>
+Reach the destination by altering the optical illusion using the following mechanics<br><br>
 Player Movement<br>
 Tap on the block to make the player move to that block.<br>
 
