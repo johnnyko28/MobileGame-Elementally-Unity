@@ -1,6 +1,8 @@
 # Elementally
 
 ### Game Overview
+WebGL Link: https://csci526-triplea.netlify.app/ <br>
+Youtube Demo Link: https://youtu.be/-FgaVBdATOo. <br><br>
 Game Genre<br>
 Puzzle<br><br>
 Elevator Pitch<br>
