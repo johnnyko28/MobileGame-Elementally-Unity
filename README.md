@@ -2,6 +2,7 @@
 ### Game Overview
 WebGL Link: https://csci526-triplea.netlify.app/ <br>
 Youtube Demo Link: https://youtu.be/-FgaVBdATOo. <br><br>
+![image](Screenshot.png)
 Game Genre<br>
 Puzzle<br><br>
 Elevator Pitch<br>
@@ -9,7 +10,7 @@ Elementally is a puzzle game inspired by M.C. Escher and the three elements of n
 Goal<br>
 Logically arrange isometric blocks in each level by solving the illusion to reach the destination and collect an element.
 
-![image](Screenshot.png)
+
 
 ### Mechanics
 Reach the destination by altering the optical illusion using the following mechanics<br><br>
